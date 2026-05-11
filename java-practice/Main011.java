@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Main11 {
+public class Main011 {
     public static void main(String[] args) {
  
         int i = 10000;

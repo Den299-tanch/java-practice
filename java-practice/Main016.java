@@ -7,7 +7,7 @@ class Students{
     String state;
 }
 
-public class Main16{
+public class Main016{
     public static void main(String[] args){
         
         Scanner sc = new Scanner(System.in);

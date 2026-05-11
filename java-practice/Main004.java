@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Main5 {
+public class Main004 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -26,3 +26,4 @@ public class Main5 {
         }
     }
 }
+

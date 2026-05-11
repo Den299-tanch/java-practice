@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Main10 {
+public class Main010 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

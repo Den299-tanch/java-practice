@@ -7,7 +7,7 @@ class Member{
 }
 
 
-public class Main18 {
+public class Main018 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

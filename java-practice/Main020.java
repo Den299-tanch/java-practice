@@ -52,7 +52,7 @@ class Adult extends Customer{
     
 }
 
-public class Main21{
+public class Main020{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
